@@ -1,1 +1,1 @@
-# -optimization-of-a-city-transportation-network
+# optimization-of-a-city-transportation-network
